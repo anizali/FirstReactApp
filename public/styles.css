@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  color: red;
+}
+
+ul {
+  color: blue;
+}
+
+random-image {
+  height: 100px;
+  width: 100px;
+}
+
+.greeting {
+  color: green;
+}
