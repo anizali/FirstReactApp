@@ -16,7 +16,8 @@ function App() {
     <div>
     <Heading /> 
     <Greeting />
-    <List />
+    <List name="Aniz"/>
+    <List name="Imad"/>
     <p style={customStyle}>My lucky number is {Math.random() * num * 10}</p>
     <p> Created by Aniz</p>
   </div>
