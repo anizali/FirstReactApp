@@ -1,7 +1,6 @@
 import React from "react";
 
 const img1 = "https://picsum.photos/200";
-const img2 = "https://picsum.photos/200";
 
 function List(props) {
   return (
